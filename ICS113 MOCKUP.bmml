@@ -1,0 +1,689 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2872" measuredH="1403" mockupW="2608" mockupH="1266">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="264" y="137" w="873" h="633" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>16777215</color>
+        <text>UST-StudyPeers%0Ahttp%3A//StudyPeers.ust.edu.ph</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="938" y="292" w="-1" h="-1" measuredW="100" measuredH="39" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>user%7Csmall</icon>
+        <text>Cruz%2C%20John%20Lloyd</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="915" y="332" w="-1" h="-1" measuredW="146" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16766720</color>
+        <text>PROFILE%20SETTINGS</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextArea" x="264" y="718" w="314" h="27" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>0</borderColor>
+        <color>0</color>
+        <href>http%3A//www.ust.edu.ph</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C581%2C314%2C608%22%20href%3D%22http%3A//www.ust.edu.ph%22%20alt%3D%22http%3A//www.ust.edu.ph%22%20id%3D%2212%22%20target%3D%22_blank%22/%3E</map>
+        <text>University%20of%20Santo%20Tomas%20-%20Espana%2C%20Manila</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::HelpButton" x="578" y="722" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::TextArea" x="350" y="212" w="313" h="27" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>16766720</borderColor>
+        <color>0</color>
+        <text>%20Home%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Settings%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Paragraph" x="2017" y="311" w="275" h="69" measuredW="275" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>16777215</color>
+        <text>STUDYPEERS%0AUniversity%20of%20Santo%20Tomas</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::CallOut" x="995" y="261" w="-1" h="-1" measuredW="33" measuredH="39" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Paragraph" x="1400" y="352" w="347" h="43" measuredW="275" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>16777215</color>
+        <text>List%20of%20Verified%20Online%20Tutors</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::IconLabel" x="1508" y="334" w="-1" h="-1" measuredW="118" measuredH="39" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>user%7Csmall</icon>
+        <text>Cruz%2C%20John%20Drapeza</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::IconLabel" x="1516" y="402" w="-1" h="-1" measuredW="114" measuredH="39" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>user%7Csmall</icon>
+        <text>Aber%2C%20Jose%20Miransol</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::IconLabel" x="1516" y="464" w="-1" h="-1" measuredW="124" measuredH="39" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>user%7Csmall</icon>
+        <text>Kalayaan%2C%20Jose%20Gabo</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::IconLabel" x="1521" y="534" w="-1" h="-1" measuredW="98" measuredH="39" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>user%7Csmall</icon>
+        <text>Kim%2C%20Jennifer%20Go</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Image" x="1555" y="331" w="37" h="28" measuredW="1000" measuredH="1000" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/113skrill.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Image" x="1555" y="529" w="37" h="28" measuredW="184" measuredH="274" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/113anis.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Image" x="1555" y="462" w="37" h="28" measuredW="615" measuredH="900" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/113lamar.jpeg</src>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Image" x="1555" y="398" w="37" h="28" measuredW="306" measuredH="306" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/113.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Image" x="662" y="213" w="77" h="79" measuredW="500" measuredH="570" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>%24ACCOUNT/assets/UST%2520Logo.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Image" x="1600" y="338" w="15" h="15" measuredW="15" measuredH="15" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/images.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Image" x="1600" y="405" w="15" h="15" measuredW="15" measuredH="15" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/images.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Image" x="1600" y="469" w="15" h="15" measuredW="15" measuredH="15" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/images.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Image" x="1600" y="546" w="15" h="15" measuredW="15" measuredH="15" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/images.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="1535" y="588" w="80" h="61" measuredW="80" measuredH="61" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>%28o%29%20Chat%0A%28%29%20Video%20Call%0A%28%29%20Voice%20Call</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::RadioButton" x="1527" y="402" w="-1" h="-1" measuredW="16" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::RadioButton" x="1527" y="466" w="-1" h="-1" measuredW="16" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::RadioButton" x="1527" y="533" w="-1" h="-1" measuredW="16" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="1527" y="337" w="-1" h="-1" measuredW="20" measuredH="16" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>%28o%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Image" x="276" y="211" w="840" h="531" measuredW="940" measuredH="580" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Website_-_book_background.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1137" y="137" w="873" h="633" measuredW="450" measuredH="400" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>16777215</color>
+        <text>UST-StudyPeers%0Ahttp%3A//StudyPeers.ust.edu.ph</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Image" x="1144" y="214" w="840" h="531" measuredW="940" measuredH="580" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Website_-_book_background.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::TextArea" x="1137" y="718" w="314" h="27" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>0</borderColor>
+        <color>0</color>
+        <text>University%20of%20Santo%20Tomas%20-%20Espana%2C%20Manila</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::HelpButton" x="1451" y="722" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Paragraph" x="1436" y="292" w="275" h="69" measuredW="275" measuredH="80" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>0</color>
+        <text>STUDYPEERS%0AUniversity%20of%20Santo%20Tomas</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Image" x="1535" y="214" w="77" h="79" measuredW="500" measuredH="570" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>%24ACCOUNT/assets/UST%2520Logo.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::TextArea" x="1480" y="659" w="191" h="27" measuredW="200" measuredH="140" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>16776960</borderColor>
+        <color>0</color>
+        <text>Contact%20Tutor</text>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Paragraph" x="2262" y="352" w="347" h="43" measuredW="275" measuredH="80" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>16777215</color>
+        <text>List%20of%20Verified%20Online%20Tutors</text>
+      </controlProperties>
+    </control>
+    <control controlID="170" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1999" y="137" w="873" h="633" measuredW="450" measuredH="400" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>16777215</color>
+        <text>UST-StudyPeers%0Ahttp%3A//StudyPeers.ust.edu.ph</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="171" controlTypeID="com.balsamiq.mockups::Image" x="2006" y="214" w="840" h="531" measuredW="940" measuredH="580" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Website_-_book_background.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="172" controlTypeID="com.balsamiq.mockups::TextArea" x="1999" y="718" w="314" h="27" measuredW="200" measuredH="140" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>0</borderColor>
+        <color>0</color>
+        <text>University%20of%20Santo%20Tomas%20-%20Espana%2C%20Manila</text>
+      </controlProperties>
+    </control>
+    <control controlID="173" controlTypeID="com.balsamiq.mockups::HelpButton" x="2313" y="722" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="39" locked="false" isInGroup="-1"/>
+    <control controlID="175" controlTypeID="com.balsamiq.mockups::Paragraph" x="2299" y="292" w="275" h="69" measuredW="275" measuredH="80" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>0</color>
+        <text>STUDYPEERS%0AUniversity%20of%20Santo%20Tomas</text>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::Image" x="2397" y="214" w="77" h="79" measuredW="500" measuredH="570" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>%24ACCOUNT/assets/UST%2520Logo.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="197" controlTypeID="com.balsamiq.mockups::Image" x="265" y="209" w="84" h="74" measuredW="488" measuredH="366" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./assets/logo.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="199" controlTypeID="com.balsamiq.mockups::TextArea" x="267" y="275" w="82" h="442" measuredW="200" measuredH="140" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>16766720</borderColor>
+        <color>0</color>
+        <size>10</size>
+        <text>Welcome%20to%0A%20%0A%20%0A%20%0A%20%0A%20%0ASTUDYPEERS-UST%0A%20%0A%20%0A%20%0A%20%0AMission%20%3A%0AWe%20aim%20to%20achieve%20an%20efficient%20study%20process%20that%20can%20provide%20to%20all%20the%20learners%20from%20UST%0A%20%0A%20%0A%20%0AVision%20%3A%20%0AWe%20aspire%20to%20become%20one%20of%20the%20leading%20e-learning%20way%20we%20have%20today</text>
+      </controlProperties>
+    </control>
+    <control controlID="201" controlTypeID="com.balsamiq.mockups::Image" x="1137" y="209" w="84" h="74" measuredW="488" measuredH="366" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./assets/logo.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="202" controlTypeID="com.balsamiq.mockups::Image" x="1999" y="209" w="79" h="74" measuredW="488" measuredH="366" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./assets/logo.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="206" controlTypeID="com.balsamiq.mockups::Button" x="422" y="426" w="229" h="41" measuredW="101" measuredH="27" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16766720</color>
+        <text>TUTOR%20NOW</text>
+      </controlProperties>
+    </control>
+    <control controlID="207" controlTypeID="com.balsamiq.mockups::Button" x="778" y="426" w="229" h="41" measuredW="93" measuredH="27" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16766720</color>
+        <text>SEEK%20HELP</text>
+      </controlProperties>
+    </control>
+    <control controlID="208" controlTypeID="com.balsamiq.mockups::TextArea" x="739" y="212" w="299" h="27" measuredW="200" measuredH="140" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>16766720</borderColor>
+        <color>0</color>
+        <text>Tools%20%20%20%20%20%20%20%20%20Sign-out</text>
+      </controlProperties>
+    </control>
+    <control controlID="210" controlTypeID="com.balsamiq.mockups::TextArea" x="1221" y="212" w="313" h="27" measuredW="200" measuredH="140" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>16766720</borderColor>
+        <color>0</color>
+        <text>%20Home%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Settings%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="211" controlTypeID="com.balsamiq.mockups::TextArea" x="1612" y="212" w="302" h="27" measuredW="200" measuredH="140" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>16766720</borderColor>
+        <color>0</color>
+        <text>Tools%20%20%20%20%20%20%20%20%20Sign-out</text>
+      </controlProperties>
+    </control>
+    <control controlID="212" controlTypeID="com.balsamiq.mockups::TextArea" x="2474" y="212" w="300" h="27" measuredW="200" measuredH="140" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>16766720</borderColor>
+        <color>0</color>
+        <text>Tools%20%20%20%20%20%20%20%20%20Sign-out</text>
+      </controlProperties>
+    </control>
+    <control controlID="214" controlTypeID="com.balsamiq.mockups::TextArea" x="2084" y="217" w="313" h="27" measuredW="200" measuredH="140" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>16766720</borderColor>
+        <color>0</color>
+        <text>%20Home%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Settings%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="216" controlTypeID="com.balsamiq.mockups::IconLabel" x="1803" y="292" w="-1" h="-1" measuredW="100" measuredH="39" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>user%7Csmall</icon>
+        <text>Cruz%2C%20John%20Lloyd</text>
+      </controlProperties>
+    </control>
+    <control controlID="217" controlTypeID="com.balsamiq.mockups::CallOut" x="1861" y="261" w="36" h="39" measuredW="36" measuredH="39" zOrder="54" locked="false" isInGroup="-1"/>
+    <control controlID="218" controlTypeID="com.balsamiq.mockups::IconLabel" x="2666" y="292" w="-1" h="-1" measuredW="100" measuredH="39" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>user%7Csmall</icon>
+        <text>Cruz%2C%20John%20Lloyd</text>
+      </controlProperties>
+    </control>
+    <control controlID="219" controlTypeID="com.balsamiq.mockups::CallOut" x="2724" y="259" w="-1" h="-1" measuredW="36" measuredH="43" zOrder="56" locked="false" isInGroup="-1"/>
+    <control controlID="222" controlTypeID="com.balsamiq.mockups::TextArea" x="1137" y="283" w="82" h="435" measuredW="200" measuredH="140" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>16766720</borderColor>
+        <color>0</color>
+        <size>10</size>
+        <text>Welcome%20to%0A%20%0A%20%0A%20%0A%20%0A%20%0ASTUDYPEERS-UST%0A%20%0A%20%0A%20%0A%20%0AMission%20%3A%0AWe%20aim%20to%20achieve%20an%20efficient%20study%20process%20that%20can%20provide%20to%20all%20the%20learners%20from%20UST%0A%20%0A%20%0A%20%0AVision%20%3A%20%0AWe%20aspire%20to%20become%20one%20of%20the%20leading%20e-learning%20way%20we%20have%20today</text>
+      </controlProperties>
+    </control>
+    <control controlID="223" controlTypeID="com.balsamiq.mockups::TextArea" x="1999" y="275" w="82" h="442" measuredW="200" measuredH="140" zOrder="58" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>16766720</borderColor>
+        <color>0</color>
+        <size>10</size>
+        <text>Welcome%20to%0A%20%0A%20%0A%20%0A%20%0A%20%0ASTUDYPEERS-UST%0A%20%0A%20%0A%20%0A%20%0AMission%20%3A%0AWe%20aim%20to%20achieve%20an%20efficient%20study%20process%20that%20can%20provide%20to%20all%20the%20learners%20from%20UST%0A%20%0A%20%0A%20%0AVision%20%3A%20%0AWe%20aspire%20to%20become%20one%20of%20the%20leading%20e-learning%20way%20we%20have%20today</text>
+      </controlProperties>
+    </control>
+    <control controlID="225" controlTypeID="com.balsamiq.mockups::ComboBox" x="799" y="472" w="187" h="-1" measuredW="152" measuredH="187" zOrder="59" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16766720</color>
+        <text>Select%20Course/Topic%0AEnglish%0AMath%0AScience%0AFilipino%0AJava%0AC%0AC++%0APhython%0AOthers%28Please%20Specify%20Below%29%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="226" controlTypeID="com.balsamiq.mockups::ComboBox" x="443" y="472" w="187" h="-1" measuredW="152" measuredH="187" zOrder="60" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16766720</color>
+        <text>Select%20Course/Topic%0AEnglish%0AMath%0AScience%0AFilipino%0AJava%0AC%0AC++%0APhython%0AOthers%28Please%20Specify%20Below%29%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="227" controlTypeID="com.balsamiq.mockups::Button" x="1780" y="332" w="-1" h="-1" measuredW="146" measuredH="27" zOrder="61" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16766720</color>
+        <text>PROFILE%20SETTINGS</text>
+      </controlProperties>
+    </control>
+    <control controlID="228" controlTypeID="com.balsamiq.mockups::Button" x="2643" y="332" w="-1" h="-1" measuredW="146" measuredH="27" zOrder="62" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16766720</color>
+        <text>PROFILE%20SETTINGS</text>
+      </controlProperties>
+    </control>
+    <control controlID="229" controlTypeID="com.balsamiq.mockups::TextInput" x="827" y="659" w="130" h="-1" measuredW="79" measuredH="26" zOrder="63" locked="false" isInGroup="-1"/>
+    <control controlID="230" controlTypeID="com.balsamiq.mockups::TextInput" x="471" y="659" w="130" h="-1" measuredW="79" measuredH="26" zOrder="64" locked="false" isInGroup="-1"/>
+    <control controlID="231" controlTypeID="com.balsamiq.mockups::Image" x="1038" y="213" w="77" h="79" measuredW="1080" measuredH="1080" zOrder="65" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/FB_IMG_1423463817113.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="232" controlTypeID="com.balsamiq.mockups::Image" x="1914" y="213" w="77" h="79" measuredW="1080" measuredH="1080" zOrder="66" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/FB_IMG_1423463817113.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="233" controlTypeID="com.balsamiq.mockups::Image" x="2776" y="214" w="77" h="79" measuredW="1080" measuredH="1080" zOrder="67" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/FB_IMG_1423463817113.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="235" controlTypeID="com.balsamiq.mockups::IconLabel" x="2489" y="427" w="-1" h="-1" measuredW="100" measuredH="39" zOrder="68" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>user%7Csmall</icon>
+        <text>Cruz%2C%20John%20Lloyd</text>
+      </controlProperties>
+    </control>
+    <control controlID="236" controlTypeID="com.balsamiq.mockups::TextArea" x="2346" y="360" w="197" h="55" measuredW="200" measuredH="140" zOrder="69" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hello.%20May%20I%20know%20what%27s%20the%20topic%20or%20problem%20you%20are%20having%20a%20hard%20time%20with%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="237" controlTypeID="com.balsamiq.mockups::TextArea" x="2292" y="426" w="197" h="55" measuredW="200" measuredH="140" zOrder="70" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>It%27s%20about%20the%20multiplication%20of%20fraction</text>
+      </controlProperties>
+    </control>
+    <control controlID="238" controlTypeID="com.balsamiq.mockups::TextArea" x="2346" y="491" w="197" h="55" measuredW="200" measuredH="140" zOrder="71" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Okay%2C%20I%20can%20help%20you%20with%20that%20Let%20me%20know%20the%20exact%20problem</text>
+      </controlProperties>
+    </control>
+    <control controlID="239" controlTypeID="com.balsamiq.mockups::TextArea" x="2292" y="564" w="197" h="55" measuredW="200" measuredH="140" zOrder="72" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Okay%2C%20I%27ll%20send%20to%20you%20the%20problem</text>
+      </controlProperties>
+    </control>
+    <control controlID="242" controlTypeID="com.balsamiq.mockups::IconLabel" x="2489" y="572" w="-1" h="-1" measuredW="100" measuredH="39" zOrder="73" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>user%7Csmall</icon>
+        <text>Cruz%2C%20John%20Lloyd</text>
+      </controlProperties>
+    </control>
+    <control controlID="243" controlTypeID="com.balsamiq.mockups::IconLabel" x="2221" y="380" w="-1" h="-1" measuredW="118" measuredH="39" zOrder="74" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2575891</color>
+        <icon>user%7Csmall</icon>
+        <text>Cruz%2C%20John%20Drapeza</text>
+      </controlProperties>
+    </control>
+    <control controlID="244" controlTypeID="com.balsamiq.mockups::Image" x="2262" y="373" w="37" h="28" measuredW="1000" measuredH="1000" zOrder="75" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/113skrill.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="245" controlTypeID="com.balsamiq.mockups::IconLabel" x="2213" y="507" w="-1" h="-1" measuredW="118" measuredH="39" zOrder="76" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2575891</color>
+        <icon>user%7Csmall</icon>
+        <text>Cruz%2C%20John%20Drapeza</text>
+      </controlProperties>
+    </control>
+    <control controlID="246" controlTypeID="com.balsamiq.mockups::Image" x="2261" y="504" w="37" h="28" measuredW="1000" measuredH="1000" zOrder="77" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/113skrill.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="266" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="264" y="770" w="873" h="633" measuredW="450" measuredH="400" zOrder="78" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>16777215</color>
+        <text>UST-StudyPeers%0Ahttp%3A//StudyPeers.ust.edu.ph</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="267" controlTypeID="com.balsamiq.mockups::Image" x="271" y="847" w="840" h="531" measuredW="940" measuredH="580" zOrder="79" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Website_-_book_background.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="268" controlTypeID="com.balsamiq.mockups::TextArea" x="264" y="1351" w="314" h="27" measuredW="200" measuredH="140" zOrder="80" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>0</borderColor>
+        <color>0</color>
+        <text>University%20of%20Santo%20Tomas%20-%20Espana%2C%20Manila</text>
+      </controlProperties>
+    </control>
+    <control controlID="269" controlTypeID="com.balsamiq.mockups::HelpButton" x="578" y="1355" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="81" locked="false" isInGroup="-1"/>
+    <control controlID="270" controlTypeID="com.balsamiq.mockups::Paragraph" x="563" y="926" w="275" h="69" measuredW="275" measuredH="80" zOrder="82" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>0</color>
+        <text>STUDYPEERS%0AUniversity%20of%20Santo%20Tomas</text>
+      </controlProperties>
+    </control>
+    <control controlID="271" controlTypeID="com.balsamiq.mockups::Image" x="662" y="847" w="77" h="79" measuredW="500" measuredH="570" zOrder="83" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>%24ACCOUNT/assets/UST%2520Logo.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="272" controlTypeID="com.balsamiq.mockups::IconLabel" x="635" y="967" w="-1" h="-1" measuredW="118" measuredH="39" zOrder="84" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>user%7Csmall</icon>
+        <text>Cruz%2C%20John%20Drapeza</text>
+      </controlProperties>
+    </control>
+    <control controlID="273" controlTypeID="com.balsamiq.mockups::IconLabel" x="643" y="1035" w="-1" h="-1" measuredW="114" measuredH="39" zOrder="85" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>user%7Csmall</icon>
+        <text>Aber%2C%20Jose%20Miransol</text>
+      </controlProperties>
+    </control>
+    <control controlID="274" controlTypeID="com.balsamiq.mockups::IconLabel" x="643" y="1097" w="-1" h="-1" measuredW="124" measuredH="39" zOrder="86" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>user%7Csmall</icon>
+        <text>Kalayaan%2C%20Jose%20Gabo</text>
+      </controlProperties>
+    </control>
+    <control controlID="275" controlTypeID="com.balsamiq.mockups::Image" x="727" y="971" w="15" h="15" measuredW="15" measuredH="15" zOrder="87" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/images.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="276" controlTypeID="com.balsamiq.mockups::Image" x="727" y="1038" w="15" h="15" measuredW="15" measuredH="15" zOrder="88" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/images.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="277" controlTypeID="com.balsamiq.mockups::Image" x="727" y="1102" w="15" h="15" measuredW="15" measuredH="15" zOrder="89" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/images.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="278" controlTypeID="com.balsamiq.mockups::RadioButton" x="654" y="1035" w="-1" h="-1" measuredW="16" measuredH="21" zOrder="90" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="279" controlTypeID="com.balsamiq.mockups::RadioButton" x="654" y="1099" w="-1" h="-1" measuredW="16" measuredH="21" zOrder="91" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="280" controlTypeID="com.balsamiq.mockups::IconLabel" x="648" y="1167" w="-1" h="-1" measuredW="98" measuredH="39" zOrder="92" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>user%7Csmall</icon>
+        <text>Kim%2C%20Jennifer%20Go</text>
+      </controlProperties>
+    </control>
+    <control controlID="281" controlTypeID="com.balsamiq.mockups::RadioButton" x="654" y="1166" w="-1" h="-1" measuredW="16" measuredH="21" zOrder="93" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="282" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="654" y="970" w="-1" h="-1" measuredW="20" measuredH="16" zOrder="94" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>%28o%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="283" controlTypeID="com.balsamiq.mockups::Image" x="682" y="964" w="37" h="28" measuredW="1000" measuredH="1000" zOrder="95" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/113skrill.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="284" controlTypeID="com.balsamiq.mockups::Image" x="682" y="1095" w="37" h="28" measuredW="615" measuredH="900" zOrder="96" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/113lamar.jpeg</src>
+      </controlProperties>
+    </control>
+    <control controlID="285" controlTypeID="com.balsamiq.mockups::Image" x="682" y="1031" w="37" h="28" measuredW="306" measuredH="306" zOrder="97" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/113.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="286" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="662" y="1221" w="80" h="61" measuredW="80" measuredH="61" zOrder="98" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>%28o%29%20Chat%0A%28%29%20Video%20Call%0A%28%29%20Voice%20Call</text>
+      </controlProperties>
+    </control>
+    <control controlID="287" controlTypeID="com.balsamiq.mockups::Image" x="682" y="1162" w="37" h="28" measuredW="184" measuredH="274" zOrder="99" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/113anis.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="288" controlTypeID="com.balsamiq.mockups::TextArea" x="607" y="1292" w="191" h="27" measuredW="200" measuredH="140" zOrder="100" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>16776960</borderColor>
+        <color>0</color>
+        <text>Contact%20Student</text>
+      </controlProperties>
+    </control>
+    <control controlID="289" controlTypeID="com.balsamiq.mockups::Image" x="264" y="842" w="84" h="74" measuredW="488" measuredH="366" zOrder="101" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./assets/logo.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="290" controlTypeID="com.balsamiq.mockups::TextArea" x="348" y="845" w="313" h="27" measuredW="200" measuredH="140" zOrder="102" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>16766720</borderColor>
+        <color>0</color>
+        <text>%20Home%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Settings%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="291" controlTypeID="com.balsamiq.mockups::TextArea" x="739" y="845" w="302" h="27" measuredW="200" measuredH="140" zOrder="103" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>16766720</borderColor>
+        <color>0</color>
+        <text>Tools%20%20%20%20%20%20%20%20%20Sign-out</text>
+      </controlProperties>
+    </control>
+    <control controlID="292" controlTypeID="com.balsamiq.mockups::IconLabel" x="930" y="925" w="-1" h="-1" measuredW="100" measuredH="39" zOrder="104" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>user%7Csmall</icon>
+        <text>Cruz%2C%20John%20Lloyd</text>
+      </controlProperties>
+    </control>
+    <control controlID="293" controlTypeID="com.balsamiq.mockups::CallOut" x="988" y="894" w="36" h="39" measuredW="36" measuredH="37" zOrder="105" locked="false" isInGroup="-1"/>
+    <control controlID="294" controlTypeID="com.balsamiq.mockups::TextArea" x="264" y="916" w="82" h="435" measuredW="200" measuredH="140" zOrder="106" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>16766720</borderColor>
+        <color>0</color>
+        <size>10</size>
+        <text>Welcome%20to%0A%20%0A%20%0A%20%0A%20%0A%20%0ASTUDYPEERS-UST%0A%20%0A%20%0A%20%0A%20%0AMission%20%3A%0AWe%20aim%20to%20achieve%20an%20efficient%20study%20process%20that%20can%20provide%20to%20all%20the%20learners%20from%20UST%0A%20%0A%20%0A%20%0AVision%20%3A%20%0AWe%20aspire%20to%20become%20one%20of%20the%20leading%20e-learning%20way%20we%20have%20today</text>
+      </controlProperties>
+    </control>
+    <control controlID="295" controlTypeID="com.balsamiq.mockups::Button" x="907" y="965" w="-1" h="-1" measuredW="146" measuredH="27" zOrder="107" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16766720</color>
+        <text>PROFILE%20SETTINGS</text>
+      </controlProperties>
+    </control>
+    <control controlID="296" controlTypeID="com.balsamiq.mockups::Image" x="1041" y="846" w="77" h="79" measuredW="1080" measuredH="1080" zOrder="108" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/FB_IMG_1423463817113.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="297" controlTypeID="com.balsamiq.mockups::Image" x="727" y="1169" w="15" h="15" measuredW="15" measuredH="15" zOrder="109" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/images.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="299" controlTypeID="com.balsamiq.mockups::Paragraph" x="563" y="292" w="275" h="69" measuredW="275" measuredH="80" zOrder="110" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>0</color>
+        <text>STUDYPEERS%0AUniversity%20of%20Santo%20Tomas</text>
+      </controlProperties>
+    </control>
+    <control controlID="300" controlTypeID="com.balsamiq.mockups::Button" x="537" y="965" w="-1" h="-1" measuredW="91" measuredH="27" zOrder="111" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16766720</color>
+        <text>Needs%20Help</text>
+      </controlProperties>
+    </control>
+    <control controlID="301" controlTypeID="com.balsamiq.mockups::Button" x="1415" y="340" w="-1" h="-1" measuredW="75" measuredH="27" zOrder="112" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16766720</color>
+        <text>TUTORS</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
